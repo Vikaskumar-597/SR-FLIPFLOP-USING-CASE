@@ -63,6 +63,7 @@ endmodule
 Developed by:Vikaskumar M
 
 RegisterNumber:24900247
+
 **RTL LOGIC FOR FLIPFLOPS**
 
 ![exp8](https://github.com/user-attachments/assets/20fe844f-6bea-41f0-aafe-ec5a1c0b8886)
